@@ -1,1 +1,3 @@
-# mlai-learn-python
+# Machine learning (ML) examples
+
+Linear regression
