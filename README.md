@@ -1,3 +1,5 @@
 # Machine learning (ML) examples
 
-Linear regression
+Single variable linear regression
+
+Multiple variable linear regression
