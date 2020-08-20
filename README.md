@@ -8,3 +8,7 @@ Models:
 Single variable linear regression
 
 Multiple variable linear regression
+
+Logistic regression
+
+DecisionTree
