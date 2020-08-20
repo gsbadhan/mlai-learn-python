@@ -12,3 +12,5 @@ Multiple variable linear regression
 Logistic regression
 
 DecisionTree
+
+RandomForest
