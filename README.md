@@ -14,3 +14,5 @@ Logistic regression
 DecisionTree
 
 RandomForest
+
+Support vector machine - SVM
