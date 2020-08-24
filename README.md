@@ -16,3 +16,5 @@ DecisionTree
 RandomForest
 
 Support vector machine - SVM
+
+Convolutional neural network (CNN)
